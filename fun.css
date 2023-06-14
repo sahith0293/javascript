@@ -1,0 +1,13 @@
+*{
+    background-color: #00ffff;
+}
+h1{
+    color:blue;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  
+    height:100vh;
+}
